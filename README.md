@@ -28,4 +28,10 @@ ROM Philosophy:
 
 Rough plan: 
 - LineageOS vs AOSP vs AOSPA base
-- Integrate GMScompat from GrapheneOS for sandboxed google play vs 
+- Integrate GMScompat from GrapheneOS for sandboxed google play vs
+- Starting point: https://github.com/Paranoid-Xperia
+
+What available codebases are there?
+- AOSP
+- CLO (CodeLinaro, formerly CAF [CodeAuroraForums]?) - https://git.codelinaro.org/clo
+- LineageOS
